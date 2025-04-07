@@ -43,11 +43,11 @@ Here’s a quick snapshot of what’s inside:
 🚀 How to Use
 Clone the repo:
 
-bash
-Copy
-Edit
+```bash
+
 git clone https://github.com/your-username/bigquery-functions-guide.git
 cd bigquery-functions-guide
+```
 Open bq_functions.md in your preferred Markdown viewer/editor.
 
 Copy, modify, and run the SQL snippets directly in the BigQuery Console.
