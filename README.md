@@ -51,3 +51,6 @@ cd bigquery-functions-guide
 Open bq_functions.md in your preferred Markdown viewer/editor.
 
 Copy, modify, and run the SQL snippets directly in the BigQuery Console.
+
+📬 Stay Connected
+If this guide helps you out, drop a ⭐ on the repo or share it with your team!
