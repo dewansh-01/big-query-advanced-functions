@@ -1,6 +1,5 @@
-# Comprehensive Guide to SQL Functions and Commands
-
-Certainly! Understanding functions like `UNNEST` can greatly enhance your ability to work with complex data structures in BigQuery. Below, I'll explain `UNNEST` in detail and introduce you to several other powerful BigQuery functions and commands that are essential for data manipulation and querying.
+# Comprehensive Guide to SQL Functions and Commands in Big Query
+Below, I'll explain `UNNEST` in detail and introduce you to several other powerful BigQuery functions and commands that are essential for data manipulation and querying.
 
 ---
 
